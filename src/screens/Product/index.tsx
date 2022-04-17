@@ -101,8 +101,6 @@ export function Product() {
             setIsLoading(false)
             Alert.alert('Cadastro', 'Não foi possível cadastrar a pizza.')
         })
-
-        
     }
 
     function handleGoBack() {
